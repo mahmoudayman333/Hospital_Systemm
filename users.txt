@@ -1,0 +1,4 @@
+admin,admin123,Admin,A001
+mona1,pass123,Doctor,D001
+sayed2,pass456,Doctor,D002
+ahmed1,p123,Patient,P001
